@@ -1,7 +1,7 @@
 const URL_MAP = {
   "||miniblox.*textures/spritesheet.png": "https://raw.githubusercontent.com/SmoothDude6969/Minibloxtexturespt2/refs/heads/main/spritesheet-t.png",
   "||miniblox.*assets/default-DKNlYibk.png": "https://raw.githubusercontent.com/SmoothDude6969/Minibloxtexturespt2/refs/heads/main/DEBUG/custom_background.png",
-  "||miniblox.*assets/miniblox-Dj36hMhG": "https://raw.githubusercontent.com/SmoothDude6969/Minibloxtexturespt2/refs/heads/main/DEBUG/miniblox-Dj36hMhG",
+  "||miniblox.*assets/miniblox-Dj36hMhG": "https://raw.githubusercontent.com/SmoothDude6969/Minibloxtexturespt2/refs/heads/main/DEBUG/miniblox-Dj36hMhG.png",
   "||miniblox.*assets/Miniblox-Regular-Lz-C8nWS.otf": "https://raw.githubusercontent.com/SmoothDude6969/MinibloxTexturespt2/main/assets/Miniblox-Regular-Lz-C8nWS.otf",
   "||miniblox.*textures/entity/chicken/chicken.png": "https://raw.githubusercontent.com/SmoothDude6969/Minibloxtexturespt2/refs/heads/main/entity/chicken.png",
   "||miniblox.*textures/entity/cow/cow.png": "https://raw.githubusercontent.com/SmoothDude6969/Minibloxtexturespt2/refs/heads/main/entity/cow.png",
