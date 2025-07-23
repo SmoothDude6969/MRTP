@@ -7,7 +7,7 @@
   "description": "A browser extension to mod an online game. Some parts made by Heythereu",
   "author": "SmoothDude, joudaALT, Mystic",
   "background": {"service_worker": "background.js"},
-  "js": {"content.js"} 
+   "js": ["content.js"],
   "icons": {
     "128": "icon.png"
   },
