@@ -9,7 +9,9 @@ I really wanna say thanks to heythereu, which helped me a lot in this journey. W
 💡 **Credits**
 
 Ores outline: SmoothDude6969
+
 Enchantment glint: Minecraft Rainbow Glint texture pack
+
 Custom background: MinecraftImages
 
 If you wanna DM me for issues or anything send to: 
