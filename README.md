@@ -1,4 +1,4 @@
-⚠️ Attention
+##⚠️ **Attention**
 Check the video on https://youtube.com/@SmoothDudeU-U to make sure you download the texture pack right.
 
 ⭐ Helps
