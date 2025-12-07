@@ -3,7 +3,7 @@
 
   "manifest_version": 3,
   "name": "Rainbow Texture Pack x B2B",
-  "version": "1.6.12",
+  "version": "1.6.15",
   "description": "A browser extension to mod an online game. Some parts made by Heythereu",
   "author": "SmoothDude, joudaALT, Mystic",
   "background": {"service_worker": "background.js"},
